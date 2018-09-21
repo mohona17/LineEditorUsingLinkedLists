@@ -1,0 +1,3 @@
+/Users/mohonaahmed/CLionProjects/ProgrammingAssignment1Mohona/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/mohonaahmed/CLionProjects/ProgrammingAssignment1Mohona/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mohonaahmed/CLionProjects/ProgrammingAssignment1Mohona/cmake-build-debug/CMakeFiles/ProgrammingAssignment1Mohona.dir
